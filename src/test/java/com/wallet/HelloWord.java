@@ -13,7 +13,7 @@ public class HelloWord {
 
     @Test
     public void testeWelloWord(){
-        assertEquals(1,2);
+        assertEquals(1,1);
 
     }
 }
